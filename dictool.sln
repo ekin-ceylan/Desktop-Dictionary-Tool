@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictool", "dictool\dictool.csproj", "{0BC80541-81CD-4322-B1DA-7718A1A462B6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B9DB0DA8-6094-44CB-8707-90A9A523668B}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ekinceylan.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = dictool\\dictool.csproj
+		SccProjectName1 = dictool
+		SccLocalPath1 = dictool
+		SccProjectUniqueName2 = Setup\\Setup.vdproj
+		SccProjectName2 = Setup
+		SccLocalPath2 = Setup
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC80541-81CD-4322-B1DA-7718A1A462B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC80541-81CD-4322-B1DA-7718A1A462B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC80541-81CD-4322-B1DA-7718A1A462B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC80541-81CD-4322-B1DA-7718A1A462B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DB0DA8-6094-44CB-8707-90A9A523668B}.Debug|Any CPU.ActiveCfg = Debug
+		{B9DB0DA8-6094-44CB-8707-90A9A523668B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
