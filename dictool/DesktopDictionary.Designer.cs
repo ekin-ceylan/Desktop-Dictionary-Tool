@@ -383,7 +383,7 @@
             this.btnEn.UseVisualStyleBackColor = false;
             this.btnEn.Click += new System.EventHandler(this.btnTr_Click);
             // 
-            // Form1
+            // DesktopDictionary
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -399,12 +399,12 @@
             this.Controls.Add(this.txtTranslation);
             this.Controls.Add(this.txtWord);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "Form1";
-            this.ShowIcon = false;
+            this.Name = "DesktopDictionary";
             this.ShowInTaskbar = false;
-            this.Text = "Form1";
+            this.Text = "Desktop Dictionary";
             this.TopMost = true;
             this.Activated += new System.EventHandler(this.Form1_Activated);
             this.Deactivate += new System.EventHandler(this.Form1_Deactivate);

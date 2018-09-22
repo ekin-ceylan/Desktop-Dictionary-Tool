@@ -36,17 +36,16 @@ D:\Projects\dictool\dictool\obj\Debug\dictool.csproj.GenerateResource.Cache
 D:\Projects\dictool\dictool\obj\Debug\Desktop Dictionary.exe
 D:\Projects\dictool\dictool\obj\Debug\Desktop Dictionary.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\Desktop Dictionary.exe.config
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Interop.IWshRuntimeLibrary.dll
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Interop.MediaPlayer.dll
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csproj.ResolveComReference.cache
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Desktop Dictionary.exe
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Desktop Dictionary.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\Desktop Dictionary.exe
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\Desktop Dictionary.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.dll
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.xml
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Interop.MediaPlayer.dll
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csproj.ResolveComReference.cache
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.DesktopDictionary.resources
 D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.Properties.Resources.resources
 D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csproj.GenerateResource.Cache
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csprojResolveAssemblyReference.cache
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.DesktopDictionary.resources
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Desktop Dictionary.exe
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\Desktop Dictionary.pdb
