@@ -46,6 +46,7 @@ D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\Desktop Dictionary.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.dll
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.pdb
 D:\Repos\Desktop-Dictionary-Tool\dictool\bin\Debug\HtmlAgilityPack.xml
-D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.Form1.resources
 D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.Properties.Resources.resources
 D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csproj.GenerateResource.Cache
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.csprojResolveAssemblyReference.cache
+D:\Repos\Desktop-Dictionary-Tool\dictool\obj\Debug\dictool.DesktopDictionary.resources

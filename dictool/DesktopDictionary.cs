@@ -12,9 +12,9 @@ using HtmlDocument = HtmlAgilityPack.HtmlDocument;
 
 namespace dictool
 {
-    public partial class Form1 : Form
+    public partial class DesktopDictionary : Form
     {
-        public Form1()
+        public DesktopDictionary()
         {
             InitializeComponent();
             CheckForIllegalCrossThreadCalls = false;

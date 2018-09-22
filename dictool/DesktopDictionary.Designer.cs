@@ -1,6 +1,6 @@
 ﻿namespace dictool
 {
-    partial class Form1
+    partial class DesktopDictionary
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DesktopDictionary));
             this.txtWord = new System.Windows.Forms.TextBox();
             this.ctxMenu = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.ctxItemAlwaysTop = new System.Windows.Forms.ToolStripMenuItem();
